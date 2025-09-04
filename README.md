@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stringkarm
+- 👋 Hi, I’m kareum
 - 👀 I’m interested in learning to develop a game
 - 🌱 I’m currently learning BSIT
 - 💞️ I’m looking to collaborate on the industry sooner 
